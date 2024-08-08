@@ -16,6 +16,6 @@
   - With successful OTP verification, the user accesses a password reset form.
   - Upon submission, the new password is securely stored, and the OTP is cleared from the database.
  # Live Demo
-   - https://zippy-parfait-a1f2c6.netlify.app
+   - https://silly-chimera-6aebc7.netlify.app
 
 
