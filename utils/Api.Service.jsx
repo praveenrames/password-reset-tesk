@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const AxiosService = axios.create({
-  baseURL: "https://password-reset-task-back-end-1.onrender.com",
+  baseURL: "http://localhost:5000",
   headers: {
     "Content-Type": "application/json",
   },
